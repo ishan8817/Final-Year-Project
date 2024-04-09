@@ -12,12 +12,6 @@ CPU Performance Enhancement with Time Series Prediction is a project focused on 
 
 ## Contributions
 Contributions, suggestions, and feedback are welcome! Feel free to open issues or pull requests to improve the project's accuracy and effectiveness.
-We only have a couple of rules and we hope you enjoy the process :)
-
-### Contributing Rules
-1. Don't move or delete any files. Only modify them.
-2. Add all code related files [here](https://github.com/ishan8817/Final-Year-Project/blob/main).
-3. Add all plots or visualisation [here](https://github.com/ishan8817/Final-Year-Project/tree/main/Evaluation_Plots).
 
 ### Contributing Process
 1. Fork the repository
